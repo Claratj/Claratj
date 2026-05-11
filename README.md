@@ -21,7 +21,6 @@ together with the user experience point of view.
 ### Other profiles 🧐
 
 - [Linkedin](https://www.linkedin.com/in/claratoloba/) 📊
-- [Codesignal](https://app.codesignal.com/profile/clara_tj) 🎮
       
 
 #
@@ -43,6 +42,3 @@ together with the user experience point of view.
 &nbsp;
    
 #
-
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Claratj&show_icons=true&locale=en&layout=compact" alt="Claratj" /></p>
