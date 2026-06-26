@@ -32,6 +32,4 @@ I focus on building **token-driven**, reusable component systems that stay consi
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Claratj&show_icons=true&hide_border=true&count_private=true)
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Claratj&layout=compact&hide_border=true)
