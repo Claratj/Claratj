@@ -1,26 +1,24 @@
-### Hi there curious folks! 
+# Hi, I'm Clara 🐈‍⬛
 
-**`I'm Clara, a Frontend Developer`**
+### Frontend Engineer · Design Systems
 
-I don’t know if I found coding or coding found
-me 🤓. I started my career in Graphic Design🎨 but I
-soon realised that the new platforms were not
-going to be in ink and paper 🖥️. I found in Frontend
-Development a field of infinite possibilities where
-the technical base is complemented with creativity
-and good practices ✅.
-My previous experience has been very useful tool 🔧
-when approaching any project, since I take into
-account the technical approach to development
-together with the user experience point of view.
+> I build design systems that scale across frameworks. React · TypeScript · Vue.
 
+[🌐 Web](https://www.claratoloba.com/) · [💼 LinkedIn](https://www.linkedin.com/in/claratoloba/) · [✉️ Email](mailto:clara@claratoloba.com)
 
+---
 
-#
+## About me
 
-### Other profiles 🧐
+Frontend Engineer with ~6 years of experience, specialized in **design systems** and **product UI**. I come from a graphic design and art direction background (BA in History of Art + MA in Design & Art Direction), so I approach every project by combining technical rigor with a user-experience point of view.
 
-- [Linkedin](https://www.linkedin.com/in/claratoloba/) 📊
-      
+I focus on building **token-driven**, reusable component systems that stay consistent across React and Vue.
 
 
+## Stack
+
+**Core:** React · TypeScript · Next.js · Vue · Nuxt · Vite
+
+**Design Systems:** Storybook · Tailwind · Figma Tokens · Radix UI · DevExtreme
+
+**Testing & State:** Jest · Cypress · React Testing Library · React Query · XState · Redux
