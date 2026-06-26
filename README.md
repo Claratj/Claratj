@@ -14,10 +14,6 @@ Frontend Engineer with ~6 years of experience, specialized in **design systems**
 
 I focus on building **token-driven**, reusable component systems that stay consistent across React and Vue. I also build the AI tooling around the work — custom Claude Code agents, Agent Skills and MCP integrations that scaffold components, generate tests, review PRs and keep Figma tokens in sync with code.
 
-## What I'm working on
-
-🔬 Currently the sole frontend developer on a **Clinical Trial Management System (CTMS)**, built with React 18 + TypeScript + Vite.
-
 ## Stack
 
 **Core:** React · TypeScript · Next.js · Vue · Nuxt · Vite
